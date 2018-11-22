@@ -71,4 +71,6 @@ armor_detect在 ImageConsProd 主线程中调用 detect 方法 , 传入 cv::Mat 
 
 ## Copyright and License
 
-Copyright (c) 2018 Robomaster, Xidian University. AutoCar is provided under the [BSD-2](https://opensource.org/licenses/BSD-2-Clause).
+Copyright (c) 2018 Robomaster, Xidian University. AutoCar is provided under the [BSD-2]//(https://opensource.org/licenses/BSD-2-Clause).
+asd
+test
